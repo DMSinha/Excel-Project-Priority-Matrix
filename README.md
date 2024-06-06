@@ -24,3 +24,6 @@ The Prioritization Matrix is used to refer to a variety of Prioritization Techni
     * May Be Later: Projects that can be left out for now.<br>
 
 A prioritization Matrix can be used in decision-making in different scenarios like Implementing Improvement Ideas in an organization & which idea to prioritize as it has & revenue associated.
+
+   Snippets:<br>
+   <img width="467" alt="image" src="https://github.com/DMSinha/Excel-Project-Priority-Matrix/assets/101706831/992f3b67-b576-43cb-b303-a0df434cb05e">
